@@ -14,7 +14,7 @@
 ## 🧑‍💻 About Me
 
 <div align="center">
-  <img width="380" src="_ (2).jpeg" alt="Coder illustration"/>
+  <img width="1000" src="2.png" alt="Coder illustration"/>
 </div>
 
 ```c
