@@ -70,7 +70,7 @@ int main() {
 - 🔭 Currently building expertise in **ADAS, CAN Bus protocols & RTOS**
 - 📝 Published a **technical research paper** on Li-Fi based patient monitoring
 - 📍 Based in **Bengaluru, Karnataka, India**
-- 📬 Reach me at **arunkarthi-03@gmail.com**
+- 📬 Reach me at **arunkarthi4761@gmail.com**
 - ⚡ Fun fact: I can speak **English, Tamil, Telugu & Hindi** — fluent in 4 protocols! 😄
 
 ---
