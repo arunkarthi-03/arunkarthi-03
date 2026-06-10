@@ -13,7 +13,9 @@
 
 ## 🧑‍💻 About Me
 
-<!-- <img align="right" width="380" src="https://pin.it/2UyXNYs8E"/> -->
+<div align="center">
+  <img width="380" src="_ (2).jpeg" alt="Coder illustration"/>
+</div>
 
 ```c
 /* karthikeyan_arun_kumar.c */
