@@ -244,8 +244,7 @@ int main() {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-arunkarthi-03%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arunkarthi-03@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-arunkarthi-03-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arunkarthi-03)
+[![Email](https://img.shields.io/badge/Email-arunkarthi4761%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arunkarthi4761@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-38bdae?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Bengaluru)
 
 </div>
